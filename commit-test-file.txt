@@ -1,1 +1,2 @@
-- test feat: this should be minor 3
+feat: this should be minor 3
+feat(MAJOR): this should be major
