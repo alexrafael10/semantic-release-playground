@@ -1,4 +1,6 @@
 {
+  "branches": ["master"],
+  "npmPublish": false,
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
@@ -51,7 +53,6 @@
         }
       }
     ],
-    "@semantic-release/release-notes-generator",
-  ],
-  "npmPublish": false
+    "@semantic-release/release-notes-generator"
+  ]
 }
