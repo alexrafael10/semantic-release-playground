@@ -13,6 +13,11 @@
             "release": "major"
           },
           {
+            "type": "refactor",
+            "scope": "MAJOR",
+            "release": "major"
+          },
+          {
             "type": "feat",
             "release": "minor"
           },
@@ -87,7 +92,7 @@
           },
           {
             "type": "test",
-            "section": "Tests"
+            "section": "Unit Tests"
           }
         ]
       }
