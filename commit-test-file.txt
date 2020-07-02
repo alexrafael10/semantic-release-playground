@@ -5,5 +5,5 @@ big bang:
 fix: something got fixed
 refactor: something got refactored 2
 perf: perf commit 2
-test: tests changed commit
+test: tests changed commit 2
 chore: chore was made
