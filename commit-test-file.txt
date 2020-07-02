@@ -5,3 +5,4 @@ big bang:
 fix: something got fixed
 refactor: something got refactored
 perf: perf commit
+test: tests changed commit
