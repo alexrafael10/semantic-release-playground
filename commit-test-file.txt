@@ -4,3 +4,4 @@ feat(MAJOR): this should be major
 big bang:
 fix: something got fixed
 refactor: something got refactored
+perf: perf commit
