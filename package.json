@@ -18,5 +18,8 @@
   "homepage": "https://github.com/alexrafael10/semantic-release-playground#readme",
   "devDependencies": {
     "@semantic-release/github": "^7.0.7"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.3.0"
   }
 }
