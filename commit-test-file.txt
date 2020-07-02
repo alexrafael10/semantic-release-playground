@@ -1,2 +1,5 @@
 feat: this should be minor 3
 feat(MAJOR): this should be major
+--
+big bang:
+fix: something got fixed
