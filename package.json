@@ -1,0 +1,22 @@
+{
+  "name": "semantic-release-playground",
+  "version": "1.0.0",
+  "description": "playground for semantic release config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexrafael10/semantic-release-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexrafael10/semantic-release-playground/issues"
+  },
+  "homepage": "https://github.com/alexrafael10/semantic-release-playground#readme",
+  "devDependencies": {
+    "@semantic-release/github": "^7.0.7"
+  }
+}
