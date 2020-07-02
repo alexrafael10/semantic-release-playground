@@ -4,6 +4,6 @@ feat(MAJOR): this should be major
 big bang:
 fix: something got fixed
 refactor: something got refactored 2
-perf: perf commit
+perf: perf commit 2
 test: tests changed commit
 chore: chore was made
